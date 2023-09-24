@@ -1,1 +1,9 @@
+tests
 ExerciseFiles
+OpenWeatherApiCall.json
+quotes.csv
+api_credentials.json
+__pycache__
+.pytest_cache
+message_html.html
+message_text.txt
