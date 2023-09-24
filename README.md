@@ -1,2 +1,2 @@
-# DailyWeatherForecastEmail
-A daily weather forecast email
+# Weather Forecast Email Digest
+An application that sends automated schedules daily weather forecast emails. Fetches weather forecast information based on lcoation then sends out automated schedules emails.
