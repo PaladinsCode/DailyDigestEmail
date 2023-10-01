@@ -7,3 +7,5 @@ setup_params = json.load(file)
 OPEN_WEATHER_API_KEY   = setup_params["open weather api key"]
 TWITTER_API_KEY        = setup_params["twitter api key"]
 TWITTER_API_SECRET_KEY = setup_params["twitter api secret key"]
+EMAIL_ADDRESS          = setup_params["email"]
+EMAIL_PASSEDWORD       = setup_params["email password"]

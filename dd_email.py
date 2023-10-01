@@ -2,6 +2,7 @@ import dd_content
 import datetime
 import smtplib
 from email.message import EmailMessage
+from credentials_setup import EMAIL_ADDRESS, EMAIL_PASSEDWORD
 
 
 class DailyDigestEmail:
@@ -14,9 +15,9 @@ class DailyDigestEmail:
             },
         }
 
-        self.recipients_list = []
-        self.sender_credentials = {'email':'',
-                                   'password': ''}
+        self.recipients_list = ["sm885367@gmail.com"]
+        self.sender_credentials = {'email':EMAIL_ADDRESS,
+                                   'password': EMAIL_PASSEDWORD}
     """
     Generate email message body as Plaintext and HTML.
     """
