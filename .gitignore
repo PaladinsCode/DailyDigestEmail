@@ -7,3 +7,6 @@ __pycache__
 .pytest_cache
 message_html.html
 message_text.txt
+dist
+build
+dd_gui.spec

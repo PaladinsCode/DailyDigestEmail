@@ -2,14 +2,15 @@
     "add_recipient": "",
     "recipient_list": [
         "sm885367@gmail.com",
-        "Tomato@tomato.com"
+        "Tomato@tomato.com",
+        "pop"
     ],
     "hour": "07",
     "minute": "30",
     "quote": 0,
-    "weather": 1,
+    "weather": 0,
     "twitter": 0,
     "wikipedia": 0,
-    "sender_email": "moaaz.soltan.developer@outlook.com",
-    "sender_password": "tideland-shock-locus"
+    "sender_email": "",
+    "sender_password": ""
 }
